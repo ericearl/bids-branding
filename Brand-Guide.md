@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <style>
 .header-box {
@@ -35,7 +34,9 @@ NB: Headers will be wrapped in consistent brand-colored borders
 9. [Color Palette](#color-palette)
 
 ## Objective
-The BIDS brand design aims to create a unique, recognizable, and user-friendly visual identity that accurately represents the organization's values, goals, and services. The brand design should communicate professionalism, innovation, and trustworthiness, reflecting BIDS' commitment to simplifying and standardizing the organization of neuroimaging and behavioral data. Additionally, the brand design should ensure consistency in the use of all BIDS visual elements among all users, maintaining a cohesive and professional appearance across the entire BIDS community.
+The BIDS brand design aims to create a unique, recognizable, and user-friendly visual identity that accurately represents the organization's values, goals, and services. The brand design should communicate professionalism, innovation, and trustworthiness, reflecting BIDS' commitment to simplifying and standardizing the organization of neuroimaging and behavioral data.
+Additionally, the brand design should ensure consistency in the use of all BIDS visual elements among all users, maintaining a cohesive and professional appearance across the entire BIDS community.
+
 To achieve this, the brand design will incorporate:
 •	A Distinctive Logo
 •	A Cohesive Color Scheme
@@ -44,18 +45,21 @@ To achieve this, the brand design will incorporate:
 •	Icons and Symbols
 •	Complementary Graphic Elements
 •	Brand Guidelines
+
 These components will collectively create a professional and scientific visual identity. The design will be versatile and adaptable, suitable for various marketing materials such as brochures, magazines, business cards, advertisements, social media, website design, and merchandise.
 A strong and consistent brand design will enhance BIDS' recognition within the neuroscience community and effectively communicate its values and goals, fostering greater trust and engagement.
 
 ## About Brain Imaging Data Structure (BIDS)
 BIDS is a community-driven specification standard designed to restructure the organization and sharing of neuroimaging and behavioral data. Historically, the lack of a standardized format for neuroimaging data led to inconsistencies and inefficiencies, even among researchers within the same lab. BIDS therefore addresses this issue by providing a simple, intuitive, and easily adaptable framework that ensures data consistency and facilitates collaboration.
 Inspired by the internal format of the OpenNeuro repository, BIDS was developed with contributions from a diverse group of neuroscientists. The specification is based on straightforward file formats and folder structures that reflect current lab practices, making it accessible to scientists from various backgrounds.
+
 BIDS has fostered a robust ecosystem of tools and resources, including:
 •	The BIDS specification, detailing data organization.
 •	The BIDS starter kit, offers a simple introduction.
 •	The BIDS validator, an automated tool for checking dataset compliance.
 •	BIDS Apps, a collection of neuroimaging pipelines compatible with BIDS datasets.
 •	OpenNeuro, a repository for BIDS-formatted datasets.
+
 This ecosystem continues to grow, ensuring that BIDS remains the gold standard for neuroimaging data organization.
 
 ## Design Process
@@ -69,8 +73,7 @@ This ecosystem continues to grow, ensuring that BIDS remains the gold standard f
 #### Logo Design
 **Concept (Description and Symbolism)**
 The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text.
-We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared.
-The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format.
+We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared. The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format.
 This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community.
 [Logo Image(s)]
 
