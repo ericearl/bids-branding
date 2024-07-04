@@ -71,10 +71,14 @@ This ecosystem continues to grow, ensuring that BIDS remains the gold standard f
 ### Brand Design and Guidelines
 
 #### Logo Design
-**Concept (Description and Symbolism)** <br>
-The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text. <br>
-We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared. The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format. <br>
-This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community. <br>
+**Concept (Description and Symbolism)**
+
+The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text.
+
+We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared. The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format.
+
+This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community.
+
 [Logo Image(s)]
 
 **Logo Variations**
@@ -82,12 +86,16 @@ This design encapsulates BIDS' mission to simplify and standardize neuroimaging 
 The logo is available in a horizontal layout and variation, provided in both black and white transparent variants. To maintain consistency, the logo does not have a vertical variation. The horizontal variation is accepted as the primary and only format for usage. Both black and white variants should be used based on the background that best suits them for optimal contrast, legibility, and clarity.
 
 Black variant: Use the black logo on light or white backgrounds to ensure visibility and contrast. <br>
-White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility. <br>
+White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility.
+
 [Main logo]
+
 [Black & White transparent background]
 
-**Logo Usage Guidelines** <br> <br>
-A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible. <br>
+**Logo Usage Guidelines**
+
+A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.
+
 [Measured logo image] [Logo guide image]
 
 **Incorrect Usage Guidelines:**
