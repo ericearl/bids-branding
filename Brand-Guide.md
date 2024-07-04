@@ -3,7 +3,7 @@
 <head>
 <style>
 .header-box {
-    background-color: #009485; /* Change to your desired color */
+    background-color: #3ccd2f; /* Box color */
     color: white; /* Text color inside the box */
     padding: 10px;
     border-radius: 5px;
@@ -24,9 +24,9 @@
 NB: Headers will be wrapped in consistent brand-colored borders
 
 ## Table of Contents
-1. [Objective](##Objective)
-2. [About BIDS](##About-brain-imaging-data-structure-(bids))
-3. [Design Process](##Design-process)
+1. [Objective](#Objective)
+2. [About BIDS](#About-brain-imaging-data-structure-(bids))
+3. [Design Process](#Design-process)
 4. [Research and Analysis](#research-and-analysis)
 5. [Color Palette](#color-palette)
 6. [Typography](#typography)
