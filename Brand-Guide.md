@@ -52,7 +52,7 @@ BIDS is a community-driven specification standard designed to restructure the or
 Inspired by the internal format of the OpenNeuro repository, BIDS was developed with contributions from a diverse group of neuroscientists. The specification is based on straightforward file formats and folder structures that reflect current lab practices, making it accessible to scientists from various backgrounds.
 BIDS has fostered a robust ecosystem of tools and resources, including:
 •	The BIDS specification, detailing data organization.
-•	The BIDS starter kit, offering a simple introduction.
+•	The BIDS starter kit, offers a simple introduction.
 •	The BIDS validator, an automated tool for checking dataset compliance.
 •	BIDS Apps, a collection of neuroimaging pipelines compatible with BIDS datasets.
 •	OpenNeuro, a repository for BIDS-formatted datasets.
