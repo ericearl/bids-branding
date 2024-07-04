@@ -53,11 +53,11 @@ A strong and consistent brand design will enhance BIDS' recognition within the n
 BIDS is a community-driven specification standard designed to restructure the organization and sharing of neuroimaging and behavioral data. Historically, the lack of a standardized format for neuroimaging data led to inconsistencies and inefficiencies, even among researchers within the same lab. BIDS therefore addresses this issue by providing a simple, intuitive, and easily adaptable framework that ensures data consistency and facilitates collaboration.
 Inspired by the internal format of the OpenNeuro repository, BIDS was developed with contributions from a diverse group of neuroscientists. The specification is based on straightforward file formats and folder structures that reflect current lab practices, making it accessible to scientists from various backgrounds.
 
-BIDS has fostered a robust ecosystem of tools and resources, including:
-•	The BIDS specification, detailing data organization.
-•	The BIDS starter kit, offers a simple introduction.
-•	The BIDS validator, an automated tool for checking dataset compliance.
-•	BIDS Apps, a collection of neuroimaging pipelines compatible with BIDS datasets.
+BIDS has fostered a robust ecosystem of tools and resources, including: <br>
+•	The BIDS specification, detailing data organization.<br>
+•	The BIDS starter kit, offers a simple introduction.<br>
+•	The BIDS validator, an automated tool for checking dataset compliance.<br>
+•	BIDS Apps, a collection of neuroimaging pipelines compatible with BIDS datasets.<br>
 •	OpenNeuro, a repository for BIDS-formatted datasets.
 
 This ecosystem continues to grow, ensuring that BIDS remains the gold standard for neuroimaging data organization.
@@ -94,25 +94,25 @@ A clear space also known as an exclusion zone is an area of blank space that sur
 
 **Incorrect Usage Guidelines:**
 
-**Distortion**: Do not alter the proportions of the logo elements by condensing or stretching them horizontally or vertically. Resize the logo proportionally to maintain its original proportions.
+1. **Distortion**: Do not alter the proportions of the logo elements by condensing or stretching them horizontally or vertically. Resize the logo proportionally to maintain its original proportions.
 
-**Altering Typefaces**: The typeface used in the logo is essential to its design and should not be altered or replaced with another font. This ensures legibility and visual consistency.
+2. **Altering Typefaces**: The typeface used in the logo is essential to its design and should not be altered or replaced with another font. This ensures legibility and visual consistency.
 
-**Skewing or Warping**: Do not skew, warp, or set the logo at an angle. The logo should always be displayed upright and without distortions to maintain legibility and visual impact.
+3. **Skewing or Warping**: Do not skew, warp, or set the logo at an angle. The logo should always be displayed upright and without distortions to maintain legibility and visual impact.
 
-**Applying Effects**: Avoid adding visual effects such as drop shadows, glows, or bevels to the logo. These effects can distract and compromise the logo's legibility.
+4. **Applying Effects**: Avoid adding visual effects such as drop shadows, glows, or bevels to the logo. These effects can distract and compromise the logo's legibility.
 
-**Adding Elements**: Do not augment the logo with additional elements or graphics. Adding elements can weaken the overall design and detract from its intended impact.
+5. **Adding Elements**: Do not augment the logo with additional elements or graphics. Adding elements can weaken the overall design and detract from its intended impact.
 
-**Rotating the Logo**: The logo should be kept in its original orientation and not rotated or displayed at an angle. Changing the orientation can compromise legibility and weaken the logo's impact.
+6. **Rotating the Logo**: The logo should be kept in its original orientation and not rotated or displayed at an angle. Changing the orientation can compromise legibility and weaken the logo's impact.
 
-**Changing Colors**: Do not alter the logo colors beyond the approved color scheme. Using non-approved colors can compromise visual consistency and weaken the logo's impact.
+7. **Changing Colors**: Do not alter the logo colors beyond the approved color scheme. Using non-approved colors can compromise visual consistency and weaken the logo's impact.
 
-**Rearranging Elements**: Do not rearrange the visual elements of the logo. Preserving the layout and composition is essential for maintaining consistency and brand recognition.
+8. **Rearranging Elements**: Do not rearrange the visual elements of the logo. Preserving the layout and composition is essential for maintaining consistency and brand recognition.
 
-**Changing Scale**: Do not change the relative size of the visual elements within the logo. Altering the scale can disrupt the balance and hierarchy, making the logo less effective.
+9. **Changing Scale**: Do not change the relative size of the visual elements within the logo. Altering the scale can disrupt the balance and hierarchy, making the logo less effective.
 
-**Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.
+10. **Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.
 
 #### Typography
 
