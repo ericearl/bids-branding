@@ -74,7 +74,7 @@ White variant: Use the white logo on dark or colored backgrounds to maintain cla
 
 A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.
 
-![Logo Clear Space](../logo-guide-assets/logo-clear-space.jpg)
+![Logo Clear Space](logo-guide-assets/logo-clear-space.jpg)
 
 **Incorrect Usage Guidelines:**
 
