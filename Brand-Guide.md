@@ -25,14 +25,14 @@ NB: Headers will be wrapped in consistent brand-colored borders
 
 ## Table of Contents
 1. [Objective](#Objective)
-2. [About BIDS](#About-brain-imaging-data-structure-(bids))
-3. [Design Process](#Design-process)
+2. [About BIDS](#about-brain-imaging-data-structure-bids)
+3. [Design Process](#design-process)
 4. [Research and Analysis](#research-and-analysis)
-5. [Color Palette](#color-palette)
-6. [Typography](#typography)
-7. [Imagery and Iconography](#imagery-and-iconography)
-8. [Incorrect Usage](#incorrect-usage)
-9. [Contact Information](#contact-information)
+5. [Ideate and Define](#ideate-define)
+6. [Brand Design and Guidelines](#brand-design-and-guidelines)
+7. [Logo Design](#logo-design)
+8. [Typography](#typography)
+9. [Color Palette](#color-palette)
 
 ## Objective
 The BIDS brand design aims to create a unique, recognizable, and user-friendly visual identity that accurately represents the organization's values, goals, and services. The brand design should communicate professionalism, innovation, and trustworthiness, reflecting BIDS' commitment to simplifying and standardizing the organization of neuroimaging and behavioral data. Additionally, the brand design should ensure consistency in the use of all BIDS visual elements among all users, maintaining a cohesive and professional appearance across the entire BIDS community.
@@ -48,7 +48,7 @@ These components will collectively create a professional and scientific visual i
 A strong and consistent brand design will enhance BIDS' recognition within the neuroscience community and effectively communicate its values and goals, fostering greater trust and engagement.
 
 ## About Brain Imaging Data Structure (BIDS)
-BIDS is a community-driven specification standard designed to restructure the organization and sharing of neuroimaging and behavioral data. Historically, the lack of a standardized format for neuroimaging data led to inconsistencies and inefficiencies, even among researchers within the same lab. BIDS therefore addresses this issue by providing a simple, intuitive, and easily adoptable framework that ensures data consistency and facilitates collaboration.
+BIDS is a community-driven specification standard designed to restructure the organization and sharing of neuroimaging and behavioral data. Historically, the lack of a standardized format for neuroimaging data led to inconsistencies and inefficiencies, even among researchers within the same lab. BIDS therefore addresses this issue by providing a simple, intuitive, and easily adaptable framework that ensures data consistency and facilitates collaboration.
 Inspired by the internal format of the OpenNeuro repository, BIDS was developed with contributions from a diverse group of neuroscientists. The specification is based on straightforward file formats and folder structures that reflect current lab practices, making it accessible to scientists from various backgrounds.
 BIDS has fostered a robust ecosystem of tools and resources, including:
 •	The BIDS specification, detailing data organization.
@@ -62,9 +62,9 @@ This ecosystem continues to grow, ensuring that BIDS remains the gold standard f
 
 ### Research and Analysis
 
-### Ideate & Define
+### Ideate and Define
 
-### Brand Design, Iterations & Use Guidelines
+### Brand Design and Guidelines
 
 #### Logo Design
 **Concept (Description and Symbolism)**
@@ -98,9 +98,8 @@ A clear space also known as an exclusion zone is an area of blank space that sur
 **Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.
 
 #### Typography
-Noto Serif or Exo 2 /other suggestions (consider wide adoption and web usage)
 
-#### Color Scheme
+#### Color Palette
 
 #### Pre-designed Templates
 ##### Presentation Slide Template
