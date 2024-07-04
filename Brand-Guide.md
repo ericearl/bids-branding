@@ -1,33 +1,11 @@
-<html>
-<head>
-<style>
-.header-box {
-    background-color: #3ccd2f; /* Box color */
-    color: white; /* Text color inside the box */
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-    width: auto;
-}
-</style>
-</head>
-<body>
-
-# <div class="header-box">Header 1</div>
-
-## <div class="header-box">Header 2</div>
-
-### <div class="header-box">Header 3</div>
-
 # Brain Imaging Data Structure (BIDS) Branding Design
-NB: Headers will be wrapped in consistent brand-colored borders
 
 ## Table of Contents
-1. [Objective](#Objective)
+1. [Objective](#objective)
 2. [About BIDS](#about-brain-imaging-data-structure-bids)
 3. [Design Process](#design-process)
 4. [Research and Analysis](#research-and-analysis)
-5. [Ideate and Define](#ideate-define)
+5. [Ideate and Define](#ideate-and-define)
 6. [Brand Design and Guidelines](#brand-design-and-guidelines)
 7. [Logo Design](#logo-design)
 8. [Typography](#typography)
