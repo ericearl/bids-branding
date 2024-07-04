@@ -72,32 +72,46 @@ This ecosystem continues to grow, ensuring that BIDS remains the gold standard f
 
 #### Logo Design
 **Concept (Description and Symbolism)**
+
 The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text.
 We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared. The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format.
 This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community.
 [Logo Image(s)]
 
 **Logo Variations**
+
 The logo is available in a horizontal layout and variation, provided in both black and white transparent variants. To maintain consistency, the logo does not have a vertical variation. The horizontal variation is accepted as the primary and only format for usage. Both black and white variants should be used based on the background that best suits them for optimal contrast, legibility, and clarity.
-Black variant: Use the black logo on light or white backgrounds to ensure visibility and contrast.
+
+Black variant: Use the black logo on light or white backgrounds to ensure visibility and contrast. <br>
 White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility. 
 [Main logo]
 [Black & White transparent background]
 
 **Logo Usage Guidelines**
+
 A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.
 [Measured logo image] [Logo guide image]
 
 **Incorrect Usage Guidelines:**
+
 **Distortion**: Do not alter the proportions of the logo elements by condensing or stretching them horizontally or vertically. Resize the logo proportionally to maintain its original proportions.
+
 **Altering Typefaces**: The typeface used in the logo is essential to its design and should not be altered or replaced with another font. This ensures legibility and visual consistency.
+
 **Skewing or Warping**: Do not skew, warp, or set the logo at an angle. The logo should always be displayed upright and without distortions to maintain legibility and visual impact.
+
 **Applying Effects**: Avoid adding visual effects such as drop shadows, glows, or bevels to the logo. These effects can distract and compromise the logo's legibility.
+
 **Adding Elements**: Do not augment the logo with additional elements or graphics. Adding elements can weaken the overall design and detract from its intended impact.
+
 **Rotating the Logo**: The logo should be kept in its original orientation and not rotated or displayed at an angle. Changing the orientation can compromise legibility and weaken the logo's impact.
+
 **Changing Colors**: Do not alter the logo colors beyond the approved color scheme. Using non-approved colors can compromise visual consistency and weaken the logo's impact.
+
 **Rearranging Elements**: Do not rearrange the visual elements of the logo. Preserving the layout and composition is essential for maintaining consistency and brand recognition.
+
 **Changing Scale**: Do not change the relative size of the visual elements within the logo. Altering the scale can disrupt the balance and hierarchy, making the logo less effective.
+
 **Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.
 
 #### Typography
