@@ -24,9 +24,9 @@
 NB: Headers will be wrapped in consistent brand-colored borders
 
 ## Table of Contents
-1. [Objective](##objective)
-2. [About BIDS](##about-brain-imaging-data-structure-(bids))
-3. [Design Process](##design-process)
+1. [Objective](##Objective)
+2. [About BIDS](##About-brain-imaging-data-structure-(bids))
+3. [Design Process](##Design-process)
 4. [Research and Analysis](#research-and-analysis)
 5. [Color Palette](#color-palette)
 6. [Typography](#typography)
