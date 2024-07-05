@@ -14,6 +14,6 @@ The BIDS brand design creates a unique, recognizable, and user-friendly visual i
 For any questions or additional information, please contact:
 
 - **Email**: [Eric Earl](mailto:eric.earl@nih.gov)
-- **Website**: [BIDS Website](https://bids.neuroimaging.io/)
+- **Website**: [BIDS Website](https://bids-website.readthedocs.io)
 
 Thank you for helping us maintain the integrity and consistency of BIDS.
