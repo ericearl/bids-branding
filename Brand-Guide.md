@@ -80,11 +80,11 @@ A clear space also known as an exclusion zone is an area of blank space that sur
 
 1. **Applying Effects**: Avoid adding visual effects such as drop shadows, glows, or bevels to the logo. These effects can distract and compromise the logo's legibility.
 
-1. **Adding Elements**: Do not augment the logo with additional elements or graphics. Adding elements can weaken the overall design and detract from its intended impact.
+1. ~~**Adding Elements**: Do not augment the logo with additional elements or graphics. Adding elements can weaken the overall design and detract from its intended impact.~~
 
 1. **Rotating the Logo**: The logo should be kept in its original orientation and not rotated or displayed at an angle. Changing the orientation can compromise legibility and weaken the logo's impact.
 
-1. **Changing Colors**: Do not alter the logo colors beyond the approved color scheme. Using non-approved colors can compromise visual consistency and weaken the logo's impact.
+1. ~~**Changing Colors**: Do not alter the logo colors beyond the approved color scheme. Using non-approved colors can compromise visual consistency and weaken the logo's impact.~~
 
 1. **Rearranging Elements**: Do not rearrange the visual elements of the logo. Preserving the layout and composition is essential for maintaining consistency and brand recognition.
 
