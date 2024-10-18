@@ -47,15 +47,17 @@ With the logo and visual elements finalized, the focus shifted to developing a c
 
 ### Brand Design and Guidelines
 
+![Main Logo](logo-guide-assets/BIDS_logo.jpg)
+
 #### Logo Concept (Description and Symbolism)
 
 The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text.
 
 We used the stylized brain outline because it symbolizes the brain, which is the central focus for neuroimaging datasets. The hierarchical data files connected to the outlined brain represent the goal of BIDS as a community-driven standard created to restructure and organize the way neuroimaging datasets are shared. The data files are particularly effective because they represent a hierarchical arrangement and structuring of data files, a major aim BIDS seeks to achieve. The connection of the data files to the brain conveys the idea of brain data or data files related to the brain being structured in an organized format.
 
-This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community.
+This design encapsulates BIDS' mission to simplify and standardize neuroimaging and behavioral data organization, promoting ease of use and accessibility within the scientific community.<br><br><br>
 
-[Logo Image(s)]
+![Black & White transparent background](logo-guide-assets/logo-variations.jpg)
 
 #### Logo Variations
 
@@ -63,17 +65,15 @@ The logo is available in a horizontal layout and variation, provided in both bla
 
 Black variant: Use the black logo on light or white backgrounds to ensure visibility and contrast.
 
-White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility.
+White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility.<br><br><br>
 
-![Black & White transparent background](logo-guide-assets/logo-variations.jpg)
-
-![Main Logo](logo-guide-assets/BIDS_logo.jpg)
+![Logo Clear Space](logo-guide-assets/logo-clear-space.jpg)
 
 #### Logo Usage Guidelines
 
-A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.
+A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.<br><br><br>
 
-![Logo Clear Space](logo-guide-assets/logo-clear-space.jpg)
+![Logo Guidelines](logo-guide-assets/logo-guide.jpg)
 
 #### Incorrect Usage Guidelines
 
@@ -91,7 +91,9 @@ A clear space also known as an exclusion zone is an area of blank space that sur
 
 1. **Changing Scale**: Do not change the relative size of the visual elements within the logo. Altering the scale can disrupt the balance and hierarchy, making the logo less effective.
 
-1. **Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.
+1. **Removing Elements**: Do not remove any element from the logo. Each element has a specific meaning and purpose; removing any part can compromise the brand's recognition and impact.<br><br><br>
+
+![Logo Clear Space](logo-guide-assets/BIDS-typography.jpg)
 
 #### Typography
 
@@ -99,7 +101,9 @@ The BIDS brand's primary typeface is Poppins. Poppins is a modern, geometric san
 
 Poppins was chosen for its clarity, readability, and modern design. Its geometric shapes and smooth curves symbolize organization, structure, and precision, aligning with BIDS’ mission of organizing neuroimaging data in a standardized manner. Poppins works well in combination with a serif font if needed for additional materials.
 
-Typography should predominantly use black (#000000) or white (#FFFFFF), depending on the background for readability. Other colors including the accent colors from the brand color palette can be applied as long as they maintain clarity and focus.
+Typography should predominantly use black (#000000) or white (#FFFFFF), depending on the background for readability. Other colors including the accent colors from the brand color palette can be applied as long as they maintain clarity and focus.<br><br><br>
+
+![Logo Clear Space](logo-guide-assets/BIDS-color.png)
 
 #### Color Palette
 
