@@ -3,12 +3,9 @@
 ## Table of Contents
 
 1. [Objective](#objective)
-1. [About BIDS](#about-brain-imaging-data-structure-bids)
 1. [Design Process](#design-process)
-1. [Research and Analysis](#research-and-analysis)
-1. [Ideate and Define](#ideate-and-define)
 1. [Brand Design and Guidelines](#brand-design-and-guidelines)
-1. [Logo Design](#logo-design)
+1. [Logo Design](#logo-variations)
 1. [Typography](#typography)
 1. [Color Palette](#color-palette)
 
@@ -34,15 +31,23 @@ A strong and consistent brand design will enhance BIDS' recognition within the n
 
 ## Design Process
 
-### Research and Analysis
+The design process for the BIDS brand began with reviewing several existing repositories containing artwork and graphic designs for BIDS across GitHub. These early contributions provided a foundation and highlighted the community-driven nature of BIDS' visual identity. Our primary goal was to unite these disparate pieces into a cohesive and organized brand identity that accurately reflects BIDS' role as a standard for neuroimaging data organization.
 
-### Ideate and Define
+##### Initial Audit of Existing Visual Assets
+We began by gathering and reviewing all existing artwork, ensuring that no valuable elements were overlooked. Several GitHub repositories housed early graphic designs, logos, and visual assets related to BIDS. These visual elements were reviewed to identify common themes and elements that aligned with BIDS' mission of simplifying neuroimaging data organization. The unification process involved selecting the most representative elements and establishing the guidelines to maintain a consistent and professional visual language across all media.
+
+##### Consolidation and Refinement
+The next step involved consolidating these various visual assets into a unified visual identity. This included defining the guidelines, selecting a consistent color palette and typography, and ensuring that all visual elements reflected the professional and scientific nature of the BIDS community. Through this process, we created a comprehensive brand guide that consolidates the best of what had already been created.
+
+##### Logo Design Process
+A key milestone in the branding process was hosting a design competition on 99designs. The competition attracted multiple creative submissions, and after a thorough review, the final logo was selected to represent BIDS.
+
+##### Development of Comprehensive Brand Guidelines
+With the logo and visual elements finalized, the focus shifted to developing a comprehensive brand guide. These guidelines outline the correct usage of the logo, color scheme, typography, and visual assets to ensure consistency across all BIDS-related materials, whether in print or digital formats.
 
 ### Brand Design and Guidelines
 
-#### Logo Design
-
-##### Concept (Description and Symbolism)
+#### Logo Concept (Description and Symbolism)
 
 The BIDS logo features a stylized brain outline on the left with connected elements representing data files in hierarchical order. The word "BIDS" is prominently displayed in bold, with "Brain Imaging Data Structure" in a lighter font under the prominent BIDS text.
 
@@ -52,7 +57,7 @@ This design encapsulates BIDS' mission to simplify and standardize neuroimaging 
 
 [Logo Image(s)]
 
-##### Logo Variations
+#### Logo Variations
 
 The logo is available in a horizontal layout and variation, provided in both black and white transparent variants. To maintain consistency, the logo does not have a vertical variation. The horizontal variation is accepted as the primary and only format for usage. Both black and white variants should be used based on the background that best suits them for optimal contrast, legibility, and clarity.
 
@@ -64,13 +69,13 @@ White variant: Use the white logo on dark or colored backgrounds to maintain cla
 
 [Black & White transparent background]
 
-##### Logo Usage Guidelines
+#### Logo Usage Guidelines
 
 A clear space also known as an exclusion zone is an area of blank space that surrounds the logo. This clear space around the logo is equal to the height of the brain icon. This ensures the logo remains uncluttered and legible.
 
 ![Logo Clear Space](logo-guide-assets/logo-clear-space.jpg)
 
-##### Incorrect Usage Guidelines
+#### Incorrect Usage Guidelines
 
 1. **Distortion**: Do not alter the proportions of the logo elements by condensing or stretching them horizontally or vertically. Resize the logo proportionally to maintain its original proportions.
 
