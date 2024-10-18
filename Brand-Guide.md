@@ -95,13 +95,17 @@ A clear space also known as an exclusion zone is an area of blank space that sur
 
 #### Typography
 
+The BIDS brand's primary typeface is Poppins. Poppins is a modern, geometric sans-serif font that conveys a clean, professional, and approachable aesthetic, well-suited for a community-driven standard focused on simplifying and organizing neuroimaging datasets.
+
+Poppins was chosen for its clarity, readability, and modern design. Its geometric shapes and smooth curves symbolize organization, structure, and precision, aligning with BIDS’ mission of organizing neuroimaging data in a standardized manner. Poppins works well in combination with a serif font if needed for additional materials.
+
+Typography should predominantly use black (#000000) or white (#FFFFFF), depending on the background for readability. Other colors including the accent colors from the brand color palette can be applied as long as they maintain clarity and focus.
+
 #### Color Palette
 
 #### Pre-designed Templates
 
 ##### Presentation Slide Template
-
-##### Letterhead TemplateX
 
 ##### Social Media Post Design Template_
 
