@@ -65,9 +65,9 @@ Black variant: Use the black logo on light or white backgrounds to ensure visibi
 
 White variant: Use the white logo on dark or colored backgrounds to maintain clarity and legibility.
 
-[Main logo]
+![Black & White transparent background](logo-guide-assets/logo-variations.jpg)
 
-[Black & White transparent background]
+![Main Logo](logo-guide-assets/BIDS_logo.jpg)
 
 #### Logo Usage Guidelines
 
