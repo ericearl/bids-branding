@@ -103,7 +103,7 @@ Poppins was chosen for its clarity, readability, and modern design. Its geometri
 
 Typography should predominantly use black (#000000) or white (#FFFFFF), depending on the background for readability. Other colors including the accent colors from the brand color palette can be applied as long as they maintain clarity and focus.<br><br><br>
 
-![Logo Clear Space](logo-guide-assets/BIDS-color.png)
+![Logo Clear Space](logo-guide-assets/BIDS-color.jpg)
 
 #### Color Palette
 
